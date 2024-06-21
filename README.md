@@ -19,4 +19,4 @@ To complete the assignment, please do the following:
 Goal - I want to know your favorite alcoholic drink(liquor, spirits, whisky, Japanese sake, wine, etc.). Please help me to list them.
 
 # List of Favorite Alcoholic Drink
-1. 
+1. SUI Jin (Suntory)
