@@ -15,19 +15,13 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/gill876/AttractingContributors-Hiking (Hiking destinations)
+# My Project(Alcoholic drink)
+Goal - I want to know your favorite alcoholic drink(liquor, spirits, whisky, Japanese sake, wine, etc.). Please help me to list them.
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/1089 (Discussion)
-
-# List of Hobby
-1. Hiking
-2. Spectating Motorsport
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+# List of Favorite Alcoholic Drink
+1. Margarita
+2. SUI Jin (Suntory)
+3. Sake(Nihonshu)
+4. Horoyoi
+5. Hibiki (Suntory)
+6. Yamazaki
