@@ -21,4 +21,6 @@ Goal - I want to know your favorite alcoholic drink(liquor, spirits, whisky, Jap
 # List of Favorite Alcoholic Drink
 1. Margarita
 2. SUI Jin (Suntory)
-3. Hibiki (Suntory)
+3. Sake(Nihonshu)
+4. Horoyoi
+5. Hibiki (Suntory)
