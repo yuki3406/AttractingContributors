@@ -23,7 +23,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/1089 (Discussion)
 # List of Hobby
 1. Hiking
 2. Spectating Motorsport
-3. 
+3. Biking
 4. 
 5. 
 6. 
@@ -31,3 +31,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/1089 (Discussion)
 8. 
 9. 
 10. 
+11. 
