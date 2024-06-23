@@ -23,7 +23,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/1089 (Discussion)
 # List of Hobby
 1. Hiking
 2. Spectating Motorsport
-3. 
+3. Mt. Wakakusa
 4. 
 5. 
 6. 
