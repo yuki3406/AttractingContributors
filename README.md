@@ -26,4 +26,5 @@ To complete the assignment, please do the following:
 - 和ぬか (https://www.youtube.com/@wanuka)</br>
 - Lucky Pool - Judy and Mary</br>
 - Yuuri 「ドライフラワー」 (Dried Flower) Lyrics</br>
+- 去り際のロマンティクス
 
