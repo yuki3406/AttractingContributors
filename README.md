@@ -1,6 +1,6 @@
 ![image](https://github.com/Ninjia315/AttractingContributors-Favorite_Japanese_songs/assets/125435664/f4cc0c1c-12a0-4c97-8d11-8f7c34ad5afd)
 # My project
-I want to collect all genres of J-pop from 1970s until now. Please help me add you favorite J-pop song in **List of hobby**. You can write in English and Japanese! If you don't mind, I would greatly appreciate it if you could also specify singer's name!
+I want to collect all genres of J-pop from the 1970s to the present. Please help me add you favorite J-pop song in **List of hobby**. You can write in English and Japanese! If you don't mind, I would greatly appreciate it if you could also specify singer's name!
 
 # #🥹Thanks for your coorperation!!!☺️#
 
