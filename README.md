@@ -24,7 +24,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/1089 (Discussion)
 1. Hiking
 2. Spectating Motorsport
 3. nijozan
-4. 
+4. Mt. Wakakusa
 5. 
 6. 
 7. 
