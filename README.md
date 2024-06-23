@@ -26,3 +26,4 @@ Goal - I want to know your favorite alcoholic drink(liquor, spirits, whisky, Jap
 5. Hibiki (Suntory)
 6. Yamazaki
 7. spirits !!
+8. Umeshu
