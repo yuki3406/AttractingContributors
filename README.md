@@ -1,3 +1,9 @@
+![image](https://github.com/Ninjia315/AttractingContributors-Favorite_Japanese_songs/assets/125435664/f4cc0c1c-12a0-4c97-8d11-8f7c34ad5afd)
+# My project
+I want to collect all genres of J-pop from 1970s until now. Please help me add you favorite J-pop song in **List of hobby**. You can write in English and Japanese! If you don't mind, I would greatly appreciate it if you could also specify singer's name!
+
+# #🥹Thanks for your coorperation!!!☺️#
+
 # Attracting Contributors
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
@@ -15,9 +21,5 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
-
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Hobby
