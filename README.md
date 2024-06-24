@@ -27,4 +27,5 @@ Goal - I want to know your favorite alcoholic drink(liquor, spirits, whisky, Jap
 6. Yamazaki
 7. spirits !!
 8. Umeshu
-9. Hyouketsu
+9. Asahi Super Dry
+10. Hyouketsu
