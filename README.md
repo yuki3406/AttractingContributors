@@ -22,5 +22,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # Favorite lunch
 ramen
+anpan
 walnut
 onigiri
